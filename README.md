@@ -1,5 +1,4 @@
 # Posicionando-cajas
-=========================
 Descripción del proyecto
 ------------------------
 Prática del funcionamiento positioning.

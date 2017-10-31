@@ -1,0 +1,59 @@
+*{
+    margin:0;
+}
+
+div{
+    position: absolute;
+}
+
+.box-red{
+    /* Le damos color y tamaño a la caja */
+    width: 300px;
+    height: 300px;
+    background-color: red;
+
+}
+.box-purple{
+    width: 150px;
+    height: 150px;
+    background-color: purple;
+    left: 75px;
+    top:75px;
+    /* Movemos la caja morada */
+
+    
+}
+.box-yellow{
+    width: 76px;
+    height: 76px;
+    background-color: yellow;
+    top: 75px;
+    left: 75px;
+    /* Movemos la caja amarilla */
+
+}
+.box-blue{
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    top: 320px;
+    /* Distanciamos la caja azul de la primera caja grande roja*/
+
+}
+.box-green{
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    left:75px;
+    top: 395px;
+    /* Movemos la caja verde */
+
+}
+.box-black{
+    width: 76px;
+    height: 76px;
+    background-color: black;
+    top:320px;
+    /* Movemos la caja negra */
+
+}
